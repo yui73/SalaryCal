@@ -1,4 +1,4 @@
-# SalaryPLP
+# SalaryCal
 
 ## Bound
 
